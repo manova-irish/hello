@@ -1,3 +1,0 @@
-create test1.txt file
-"hello eorld"
-"come to new world mass da mavanea"
